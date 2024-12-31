@@ -1,6 +1,7 @@
 import json
-import os
 
+
+tasks_file = "tasks.json"
 def save_tasks(tasks):
     """
     Save tasks to a JSON file
