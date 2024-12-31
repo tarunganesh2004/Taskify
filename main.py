@@ -1,5 +1,5 @@
-from notification_manager import TaskifyProApp
 import tkinter as tk
+from notification_manager import TaskifyProApp
 
 if __name__ == "__main__":
     root = tk.Tk()
